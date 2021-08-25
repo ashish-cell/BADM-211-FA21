@@ -1,0 +1,13 @@
+cycler  # via matplotlib
+dmba
+kiwisolver       # via matplotlib
+matplotlib
+numpy
+pandas
+pyparsing       # via matplotlib
+python-dateutil   # via matplotlib, pandas
+pytz          # via pandas
+scipy             # via seaborn
+seaborn
+sklearn
+six              # via cycler, python-dateutil
