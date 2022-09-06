@@ -18,21 +18,21 @@ No,7/15/2020,29,Travel_Rarely,21,2,Female,4,3,Manufacturing Director,1,Divorced,
 No,6/21/2021,32,Travel_Rarely,5,1,Male,4,1,Research Scientist,2,Divorced,3298,0,3
 No,1/16/2021,22,Non-Travel,16,4,Male,4,1,Laboratory Technician,4,Divorced,2935,1,3
 No,5/21/2019,53,Travel_Rarely,2,1,Female,2,4,Manager,4,Married,15427,2,3
-No,3/14/2019,38,Travel_Rarely,2,4,Male,3,1,Research Scientist,4,Single,3944,5,3
+No,3/14/2019,38,Travel_Rarely,2,4,Male,3,1,Research Scientist,4,Single,3944,,3
 No,2/19/2020,24,Non-Travel,11,1,Female,4,2,Manufacturing Director,3,Divorced,4011,0,3
 Yes,12/1/2021,36,Travel_Rarely,9,3,Male,2,1,Sales Representative,1,ingle,3407,7,4
 No,11/16/2019,34,Travel_Rarely,7,1,Female,3,3,Research Director,2,Single,11994,0,3
 No,10/31/2021,21,Travel_Rarely,15,3,Male,3,1,Research Scientist,4,SINGLE,1232,1,3
 Yes,1/28/2021,34,Travel_Rarely,6,2,Male,3,1,Research Scientist,1,Single,2960,2,3
-No,12/6/2019,53,Travel_Rarely,5,3,,3,5,Manager,3,Divorced,19094,4,3
+No,12/6/2019,53,Travel_Rarely,5,3,,3,5,Manager,3,Divorced,19094,,3
 Yes,4/26/2020,32,Travel_Frequently,16,2,Female,1,1,Research Scientist,1,Single,3919,1,4
 No,4/13/2019,42,Travel_Rarely,8,3,Male,3,2,Sales Executive,2,Married,6825,0,3
 No,3/24/2021,44,Travel_Rarely,7,1,Female,2,3,Healthcare Representative,4,Married,10248,3,3
 No,10/2/2019,46,Travel_Rarely,2,2,Female,3,5,Manager,1,SINGLE,18947,3,3
-No,12/24/2019,33,Travel_Rarely,2,3,,3,1,Laboratory Technician,4,Single,2496,4,3
+No,12/24/2019,33,Travel_Rarely,2,3,,3,1,Laboratory Technician,4,Single,2496,,3
 No,3/25/2021,44,Travel_Rarely,10,4,Male,3,2,Healthcare Representative,4,Married,6465,2,3
 No,4/26/2019,30,Travel_Rarely,9,4,Male,2,1,Laboratory Technician,3,SINGLE,2206,1,3
-Yes,3/10/2020,39,Travel_Rarely,5,4,Male,3,2,Sales Representative,4,Married,2086,3,3
+Yes,3/10/2020,39,Travel_Rarely,5,4,Male,3,2,Sales Representative,4,Married,2086,,3
 Yes,8/23/2021,24,Travel_Rarely,1,2,Male,3,1,Research Scientist,4,Married,2293,2,3
 No,9/20/2019,43,Travel_Rarely,2,4,Female,4,1,Research Scientist,3,Divorced,2645,1,3
 Yes,3/18/2021,50,Travel_Rarely,3,1,,2,1,Sales Representative,3,MARRIED,2683,1,3
@@ -46,8 +46,8 @@ No,12/12/2019,27,Travel_Frequently,8,4,Male,3,3,Sales Executive,3,Single,8726,1,
 No,6/29/2020,30,Travel_Frequently,1,3,Female,3,2,Laboratory Technician,4,Single,4011,1,4
 Yes,10/31/2021,41,Travel_Rarely,12,2,Female,3,5,Research Director,3,Married,19545,1,3
 No,5/9/2020,34,Non-Travel,23,2,Male,3,2,Sales Executive,3,Single,4568,0,4
-No,6/21/2020,37,Travel_Rarely,19,2,Male,3,1,Research Scientist,2,Married,3022,4,4
-No,8/1/2019,46,Travel_Frequently,5,1,Male,3,2,Sales Executive,4,Single,5772,4,4
+No,6/21/2020,37,Travel_Rarely,19,2,Male,3,1,Research Scientist,2,Married,3022,,4
+No,8/1/2019,46,Travel_Frequently,5,1,Male,3,2,Sales Executive,4,Single,5772,,4
 No,9/26/2020,35,Travel_Rarely,8,4,Male,4,1,Laboratory Technician,4,Married,2269,1,3
 Yes,1/18/2019,48,Travel_Rarely,1,1,Male,2,3,Laboratory Technician,3,Single,5381,9,3
 Yes,2/9/2021,28,Travel_Rarely,5,3,Male,3,1,Laboratory Technician,3,Single,3441,1,3
