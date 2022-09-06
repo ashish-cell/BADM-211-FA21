@@ -1,4 +1,4 @@
-Gone,GoneDate,Age,BusinessTravel,DistanceFromHome,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,PerformanceRating
+Gone,JoinDate,Age,BusinessTravel,DistanceFromHome,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,PerformanceRating
 Yes,10/4/2020,41,Travel_Rarely,1,2,Female,3,2,Sales Executive,4,Single,5993,8,3
 No,3/19/2019,49,Travel_Frequently,8,3,Male,2,2,Research Scientist,2,Married,5130,1,4
 Yes,10/3/2021,37,Travel_Rarely,2,4,Male,2,1,Laboratory Technician,3,Single,2090,6,3
