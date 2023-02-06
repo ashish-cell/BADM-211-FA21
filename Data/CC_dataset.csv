@@ -1,4 +1,4 @@
-Gender,Age,Debt,Married,BankCustomer,Industry,Ethnicity,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,Citizen,ZipCode,Income,Approved
+Gender,Age,Debt,Married,BankCustomer,Industry,Ethnicity,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,Citizen,RateScore,Income,Approved
 1,30.83,0,1,1,Industrials,White,1.25,1,1,1,0,ByBirth,202,0,1
 0,58.67,4.46,1,1,Materials,Black,3.04,1,1,6,0,ByBirth,43,560,1
 0,24.5,0.5,1,1,Materials,Black,1.5,1,0,0,0,ByBirth,280,824,1
