@@ -1,4 +1,4 @@
-College_Name,State,Public_or_Private,Apps_received,Apps_accepted,New_students,Percent_from_top_10%,Percent_from_top_25%,FT_undergrads,PT_undergrads,in-state_tuition,out-of-state_tuition,room,board,fees,book_costs,personal_costs,PhD_Faculty,faculty-student_ratio,Graduation_rate
+college_name,state,public_or_private,apps_received,apps_accepted,new_students,percent_from_top_10%,percent_from_top_25%,ft_undergrads,pt_undergrads,in-state_tuition,out-of-state_tuition,room,board,fees,book_costs,personal_costs,phd_faculty,faculty-student_ratio,graduation_rate
 Alaska Pacific University,AK,2,193,146,55,16,44,249,869,7560,7560,1620,2500,130,800,1500,76,11.9,15
 University of Alaska Southeast,AK,1,146,117,89,4,24,492,1849,1742,5226,2514,2250,34,500,1162,39,9.5,39
 Birmingham-Southern College,AL,2,805,588,287,67,88,1376,207,11660,11660,2050,2430,120,400,900,74,14,72
