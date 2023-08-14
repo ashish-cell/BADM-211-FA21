@@ -1,0 +1,330 @@
+﻿booking_id,hotel,is_canceled,lead_time,stays_in_week_nights,adults,children,babies,market_segment,deposit_type
+2,Resort Hotel,0,1537,0,2,0,0,Direct,No Deposit
+226,Resort Hotel,0,394,5,2,0,0,Offline TA/TO,No Deposit
+82,Resort Hotel,1,368,7,2,0,0,Offline TA/TO,No Deposit
+246,Resort Hotel,0,366,5,2,0,0,Offline TA/TO,No Deposit
+83,Resort Hotel,0,364,7,2,0,0,Offline TA/TO,No Deposit
+1,Resort Hotel,0,342,0,2,0,0,Direct,No Deposit
+86,Resort Hotel,0,324,10,2,0,0,Offline TA/TO,No Deposit
+283,Resort Hotel,0,304,4,2,0,1,Direct,No Deposit
+209,Resort Hotel,1,292,5,2,0,0,Offline TA/TO,No Deposit
+224,Resort Hotel,1,280,5,2,1,0,Offline TA/TO,No Deposit
+183,Resort Hotel,0,258,5,2,0,0,Offline TA/TO,No Deposit
+247,Resort Hotel,0,249,5,2,0,0,Online TA,No Deposit
+25,Resort Hotel,0,127,5,,0,0,Offline TA/TO,No Deposit
+31,Resort Hotel,0,118,10,1,0,0,Direct,No Deposit
+285,Resort Hotel,0,117,4,3,0,0,Offline TA/TO,No Deposit
+319,Resort Hotel,0,116,5,2,0,0,Offline TA/TO,No Deposit
+109,Resort Hotel,0,115,5,2,0,0,Offline TA/TO,No Deposit
+161,Resort Hotel,0,115,4,2,2,0,Online TA,No Deposit
+275,Resort Hotel,0,115,7,2,0,0,Online TA,No Deposit
+48,Resort Hotel,0,113,5,2,0,0,Offline TA/TO,No Deposit
+51,Resort Hotel,0,113,5,2,0,0,Offline TA/TO,No Deposit
+214,Resort Hotel,1,113,4,2,0,0,Online TA,No Deposit
+223,Resort Hotel,0,113,4,2,0,0,Direct,No Deposit
+186,Resort Hotel,0,112,7,2,0,0,Offline TA/TO,No Deposit
+210,Resort Hotel,0,112,10,2,0,0,Offline TA/TO,No Deposit
+162,Resort Hotel,0,111,3,2,0,0,Online TA,No Deposit
+168,Resort Hotel,0,111,0,2,0,0,Online TA,No Deposit
+184,Resort Hotel,0,111,5,2,0,0,Online TA,No Deposit
+192,Resort Hotel,0,111,10,2,0,0,Offline TA/TO,No Deposit
+158,Resort Hotel,0,110,7,2,0,0,Offline TA/TO,No Deposit
+287,Resort Hotel,0,110,5,2,0,0,Direct,No Deposit
+306,Resort Hotel,0,110,5,2,0,0,Direct,No Deposit
+94,Resort Hotel,0,109,1,2,0,0,Online TA,No Deposit
+95,Resort Hotel,1,109,2,2,0,0,Online TA,No Deposit
+116,Resort Hotel,0,109,6,2,0,0,Online TA,No Deposit
+144,Resort Hotel,0,109,3,2,1,0,Offline TA/TO,No Deposit
+288,Resort Hotel,1,109,5,2,0,0,Online TA,No Deposit
+256,Resort Hotel,0,108,2,2,0,0,Online TA,No Deposit
+45,Resort Hotel,0,107,5,2,0,0,Online TA,No Deposit
+260,Resort Hotel,0,106,2,2,0,0,Online TA,No Deposit
+217,Resort Hotel,1,105,4,2,0,0,Online TA,No Deposit
+176,Resort Hotel,0,104,3,2,0,0,Online TA,No Deposit
+180,Resort Hotel,0,104,5,2,0,0,Online TA,No Deposit
+239,Resort Hotel,1,103,3,2,0,0,Online TA,No Deposit
+100,Resort Hotel,0,102,5,2,0,0,Direct,No Deposit
+105,Resort Hotel,0,102,5,2,0,0,Online TA,No Deposit
+108,Resort Hotel,1,102,5,2,0,0,Online TA,No Deposit
+110,Resort Hotel,0,102,5,2,0,1,Online TA,No Deposit
+222,Resort Hotel,1,102,4,2,0,0,Direct,No Deposit
+72,Resort Hotel,1,101,2,2,0,0,Online TA,No Deposit
+99,Resort Hotel,0,101,5,2,1,0,Online TA,No Deposit
+115,Resort Hotel,1,101,6,2,0,0,Online TA,No Deposit
+153,Resort Hotel,1,101,5,2,0,0,Online TA,No Deposit
+128,Resort Hotel,0,100,1,2,0,0,Online TA,No Deposit
+130,Resort Hotel,0,100,1,2,0,0,Online TA,No Deposit
+131,Resort Hotel,0,100,1,2,0,0,Online TA,No Deposit
+187,Resort Hotel,0,100,7,2,0,0,Offline TA/TO,No Deposit
+229,Resort Hotel,0,100,7,3,0,0,Online TA,No Deposit
+230,Resort Hotel,0,100,7,2,0,0,Online TA,No Deposit
+281,Resort Hotel,1,100,3,2,1,0,Offline TA/TO,No Deposit
+30,Resort Hotel,0,99,5,2,0,0,Online TA,No Deposit
+81,Resort Hotel,0,99,7,2,0,0,Offline TA/TO,No Deposit
+85,Resort Hotel,0,99,7,2,0,0,Offline TA/TO,No Deposit
+102,Resort Hotel,0,98,1,2,0,0,Offline TA/TO,No Deposit
+172,Resort Hotel,0,98,1,2,0,0,Online TA,No Deposit
+179,Resort Hotel,0,98,5,2,0,0,Online TA,No Deposit
+143,Resort Hotel,0,97,2,2,0,0,Online TA,No Deposit
+151,Resort Hotel,0,97,5,2,2,0,Direct,No Deposit
+189,Resort Hotel,0,97,7,2,0,0,Offline TA/TO,No Deposit
+324,Resort Hotel,1,97,5,2,0,0,Online TA,No Deposit
+324,Resort Hotel,1,97,5,2,0,0,Online TA,No Deposit
+33,Resort Hotel,1,96,8,2,0,0,Direct,No Deposit
+47,Resort Hotel,0,96,5,2,0,0,Offline TA/TO,No Deposit
+159,Resort Hotel,0,96,10,1,0,0,Offline TA/TO,No Deposit
+225,Resort Hotel,0,96,5,2,0,0,Online TA,No Deposit
+32,Resort Hotel,0,95,11,2,0,0,Offline TA/TO,No Deposit
+104,Resort Hotel,0,95,4,2,0,0,Online TA,No Deposit
+173,Resort Hotel,0,95,2,2,0,0,Online TA,No Deposit
+157,Resort Hotel,0,94,6,3,0,0,Direct,No Deposit
+164,Resort Hotel,0,94,3,3,0,0,Offline TA/TO,No Deposit
+185,Resort Hotel,1,94,7,2,0,0,Online TA,No Deposit
+52,Resort Hotel,0,93,8,2,0,0,Offline TA/TO,No Deposit
+64,Resort Hotel,0,93,3,2,0,0,Offline TA/TO,No Deposit
+150,Resort Hotel,1,93,5,2,0,0,Offline TA/TO,No Deposit
+103,Resort Hotel,0,92,4,1,2,0,Offline TA/TO,No Deposit
+117,Resort Hotel,0,92,6,2,0,0,Offline TA/TO,No Deposit
+118,Resort Hotel,0,92,6,2,0,0,Offline TA/TO,No Deposit
+251,Resort Hotel,0,91,2,2,0,0,Online TA,No Deposit
+257,Resort Hotel,0,91,2,2,0,0,Online TA,No Deposit
+49,Resort Hotel,0,90,5,2,0,0,Offline TA/TO,No Deposit
+148,Resort Hotel,0,90,4,2,0,0,Online TA,No Deposit
+191,Resort Hotel,0,90,10,2,0,0,Offline TA/TO,No Deposit
+243,Resort Hotel,0,90,5,2,0,0,Offline TA/TO,No Deposit
+244,Resort Hotel,0,90,5,2,0,0,Offline TA/TO,No Deposit
+245,Resort Hotel,0,90,5,2,0,0,Offline TA/TO,No Deposit
+314,Resort Hotel,0,90,5,2,0,0,Offline TA/TO,No Deposit
+318,Resort Hotel,0,90,5,2,0,1,Offline TA/TO,No Deposit
+204,Resort Hotel,0,88,4,3,0,0,Offline TA/TO,No Deposit
+207,Resort Hotel,1,88,5,2,0,0,Online TA,No Deposit
+273,Resort Hotel,0,87,5,2,1,1,Offline TA/TO,No Deposit
+111,Resort Hotel,0,86,5,2,0,0,Online TA,No Deposit
+182,Resort Hotel,1,86,5,1,0,0,Offline TA/TO,No Deposit
+276,Resort Hotel,0,86,7,2,0,0,Online TA,No Deposit
+166,Resort Hotel,0,84,3,2,0,1,Online TA,No Deposit
+296,Resort Hotel,0,84,1,2,0,0,Corporate,No Deposit
+216,Resort Hotel,0,83,4,2,0,0,Offline TA/TO,No Deposit
+156,Resort Hotel,0,82,6,2,0,0,Offline TA/TO,No Deposit
+228,Resort Hotel,0,82,6,3,0,0,Direct,No Deposit
+80,Resort Hotel,0,81,6,3,0,0,Offline TA/TO,No Deposit
+84,Resort Hotel,1,81,7,2,0,0,Direct,No Deposit
+165,Resort Hotel,0,81,3,2,2,0,Direct,No Deposit
+142,Resort Hotel,0,80,0,2,0,0,Online TA,No Deposit
+190,Resort Hotel,0,80,8,1,0,0,Direct,No Deposit
+88,Resort Hotel,1,79,15,2,1,0,Offline TA/TO,No Deposit
+119,Resort Hotel,0,79,6,2,1,0,Direct,No Deposit
+160,Resort Hotel,0,79,10,2,0,0,Offline TA/TO,No Deposit
+264,Resort Hotel,0,79,3,2,0,0,Online TA,No Deposit
+304,Resort Hotel,0,79,6,2,2,0,Direct,No Deposit
+26,Resort Hotel,0,78,5,2,0,0,Offline TA/TO,No Deposit
+112,Resort Hotel,0,78,5,2,0,1,Online TA,No Deposit
+237,Resort Hotel,0,78,3,2,0,1,Online TA,No Deposit
+267,Resort Hotel,0,78,5,2,0,0,Online TA,No Deposit
+269,Resort Hotel,0,78,5,2,0,0,Online TA,No Deposit
+270,Resort Hotel,0,78,5,2,0,0,Online TA,No Deposit
+29,Resort Hotel,0,77,5,2,0,0,Online TA,No Deposit
+234,Resort Hotel,1,77,3,2,0,0,Direct,No Deposit
+242,Resort Hotel,0,77,3,2,0,0,Offline TA/TO,No Deposit
+53,Resort Hotel,0,76,10,2,0,0,Offline TA/TO,No Deposit
+10,Resort Hotel,1,75,3,2,0,0,Offline TA/TO,No Deposit
+107,Resort Hotel,1,73,5,3,0,0,Direct,No Deposit
+124,Resort Hotel,1,73,1,2,0,0,Online TA,No Deposit
+22,Resort Hotel,0,72,4,2,0,0,Direct,No Deposit
+23,Resort Hotel,0,72,4,2,0,0,Direct,No Deposit
+24,Resort Hotel,0,72,4,2,0,0,Direct,No Deposit
+79,Resort Hotel,0,72,2,2,0,0,Offline TA/TO,No Deposit
+96,Resort Hotel,1,72,2,2,0,0,Online TA,No Deposit
+311,Resort Hotel,1,72,4,2,0,0,Online TA,No Deposit
+69,Resort Hotel,1,71,2,3,0,0,Offline TA/TO,No Deposit
+297,Resort Hotel,0,71,1,2,0,0,Offline TA/TO,No Deposit
+40,Resort Hotel,0,70,3,2,0,0,Direct,No Deposit
+44,Resort Hotel,0,70,3,2,0,0,Direct,No Deposit
+286,Resort Hotel,0,70,4,2,0,0,Online TA,No Deposit
+34,Resort Hotel,0,69,4,2,0,0,Offline TA/TO,No Deposit
+87,Resort Hotel,0,69,10,2,0,0,Online TA,No Deposit
+248,Resort Hotel,1,69,6,2,0,0,Online TA,No Deposit
+13,Resort Hotel,0,68,4,2,0,0,Online TA,No Deposit
+16,Resort Hotel,0,68,4,2,0,0,Online TA,No Deposit
+181,Resort Hotel,0,68,5,2,2,0,Online TA,No Deposit
+211,Resort Hotel,0,68,3,2,0,0,Online TA,No Deposit
+232,Resort Hotel,0,68,2,3,0,0,Direct,No Deposit
+194,Resort Hotel,1,67,2,2,0,0,Online TA,No Deposit
+175,Resort Hotel,0,66,3,2,0,0,Offline TA/TO,No Deposit
+203,Resort Hotel,0,66,4,2,0,0,Online TA,No Deposit
+193,Resort Hotel,0,65,5,2,0,0,Offline TA/TO,No Deposit
+146,Resort Hotel,0,64,3,2,0,0,Online TA,No Deposit
+326,Resort Hotel,0,64,5,2,0,0,Online TA,No Deposit
+326,Resort Hotel,0,64,5,2,0,0,Online TA,No Deposit
+70,Resort Hotel,1,63,2,2,0,0,Online TA,No Deposit
+97,Resort Hotel,1,63,5,2,0,0,Online TA,No Deposit
+98,Resort Hotel,0,63,5,3,0,0,Offline TA/TO,No Deposit
+71,Resort Hotel,1,62,2,2,0,0,Online TA,No Deposit
+28,Resort Hotel,1,60,5,2,0,0,Online TA,No Deposit
+303,Resort Hotel,1,59,6,2,0,0,Online TA,No Deposit
+317,Resort Hotel,0,59,5,2,0,0,Offline TA/TO,No Deposit
+323,Resort Hotel,0,59,5,2,0,0,Online TA,No Deposit
+323,Resort Hotel,0,59,5,2,0,0,Online TA,No Deposit
+316,Resort Hotel,1,58,5,3,1,0,Direct,No Deposit
+195,Resort Hotel,0,55,3,2,0,0,Online TA,No Deposit
+208,Resort Hotel,0,54,5,2,0,0,Offline TA/TO,No Deposit
+299,Resort Hotel,0,54,1,2,0,0,Online TA,No Deposit
+308,Resort Hotel,0,53,0,2,2,0,Online TA,No Deposit
+113,Resort Hotel,0,52,5,2,0,0,Online TA,No Deposit
+68,Resort Hotel,0,51,2,2,0,0,Online TA,No Deposit
+75,Resort Hotel,1,51,2,3,0,0,Online TA,No Deposit
+122,Resort Hotel,1,51,1,1,0,0,Online TA,No Deposit
+163,Resort Hotel,0,51,3,2,0,0,Online TA,No Deposit
+167,Resort Hotel,0,51,3,3,0,0,Online TA,No Deposit
+263,Resort Hotel,1,51,3,2,0,0,Online TA,No Deposit
+321,Resort Hotel,1,51,5,2,0,0,Online TA,No Deposit
+50,Resort Hotel,0,50,5,2,0,0,Online TA,No Deposit
+27,Resort Hotel,0,48,5,2,0,0,Offline TA/TO,No Deposit
+77,Resort Hotel,1,48,2,2,0,0,Online TA,No Deposit
+174,Resort Hotel,1,48,3,2,0,0,Online TA,No Deposit
+313,Resort Hotel,0,48,5,2,0,0,Offline TA/TO,No Deposit
+322,Resort Hotel,0,48,5,2,0,0,Offline TA/TO,No Deposit
+46,Resort Hotel,1,47,5,2,2,0,Online TA,No Deposit
+35,Resort Hotel,1,45,3,3,0,0,Online TA,No Deposit
+41,Resort Hotel,1,45,3,2,0,0,Online TA,No Deposit
+42,Resort Hotel,0,45,3,2,0,0,Offline TA/TO,No Deposit
+141,Resort Hotel,0,44,0,3,0,0,Online TA,No Deposit
+236,Resort Hotel,1,44,3,2,2,0,Online TA,No Deposit
+271,Resort Hotel,0,44,5,1,0,0,Offline TA/TO,No Deposit
+282,Resort Hotel,0,44,3,2,0,0,Online TA,No Deposit
+39,Resort Hotel,1,43,3,3,0,0,Online TA,No Deposit
+206,Resort Hotel,1,43,5,2,0,0,Offline TA/TO,No Deposit
+277,Resort Hotel,0,41,7,2,0,1,Online TA,No Deposit
+36,Resort Hotel,1,40,3,3,0,0,Online TA,No Deposit
+302,Resort Hotel,0,40,5,2,0,0,Online TA,No Deposit
+147,Resort Hotel,0,39,4,2,0,0,Online TA,No Deposit
+15,Resort Hotel,0,37,4,2,0,0,Online TA,No Deposit
+17,Resort Hotel,0,37,,2,0,0,Offline TA/TO,No Deposit
+21,Resort Hotel,0,37,4,1,0,0,Online TA,No Deposit
+258,Resort Hotel,0,37,2,2,0,0,Online TA,No Deposit
+38,Resort Hotel,0,36,3,3,0,0,Online TA,No Deposit
+123,Resort Hotel,1,36,1,1,0,0,Direct,No Deposit
+284,Resort Hotel,1,36,4,2,0,0,Online TA,No Deposit
+301,Resort Hotel,0,36,5,2,0,0,Offline TA/TO,No Deposit
+12,Resort Hotel,0,35,4,2,0,0,Online TA,No Deposit
+266,Resort Hotel,0,35,3,2,2,0,Online TA,No Deposit
+149,Resort Hotel,1,34,4,2,2,0,Online TA,No Deposit
+178,Resort Hotel,0,34,4,2,0,0,Direct,No Deposit
+272,Resort Hotel,0,34,5,2,1,0,Online TA,No Deposit
+279,Resort Hotel,0,34,5,2,1,0,Online TA,No Deposit
+280,Resort Hotel,0,34,5,2,0,0,Online TA,No Deposit
+315,Resort Hotel,0,34,5,2,0,1,Offline TA/TO,No Deposit
+125,Resort Hotel,1,33,1,2,0,0,Online TA,No Deposit
+188,Resort Hotel,0,33,7,2,0,0,Direct,No Deposit
+227,Resort Hotel,0,33,5,2,0,0,Online TA,No Deposit
+289,Resort Hotel,0,33,2,2,0,0,Online TA,No Deposit
+290,Resort Hotel,0,33,2,2,0,0,Online TA,No Deposit
+291,Resort Hotel,0,33,2,2,0,0,Online TA,No Deposit
+307,Resort Hotel,0,33,5,2,0,0,Online TA,No Deposit
+278,Resort Hotel,0,32,9,2,0,0,Online TA,No Deposit
+305,Resort Hotel,0,32,6,2,0,0,Online TA,No Deposit
+268,Resort Hotel,0,31,5,2,0,0,Direct,No Deposit
+320,Resort Hotel,0,31,5,2,0,0,Offline TA/TO,No Deposit
+121,Resort Hotel,0,30,1,2,0,0,Offline TA/TO,No Deposit
+145,Resort Hotel,0,30,3,2,0,0,Online TA,No Deposit
+261,Resort Hotel,0,30,2,2,0,0,Direct,No Deposit
+262,Resort Hotel,0,30,2,2,0,0,Direct,No Deposit
+114,Resort Hotel,0,29,6,3,0,0,Online TA,No Deposit
+152,Resort Hotel,0,29,5,2,0,0,Online TA,No Deposit
+177,Resort Hotel,0,28,4,2,0,0,Online TA,No Deposit
+154,Resort Hotel,0,27,5,2,0,0,Offline TA/TO,No Deposit
+106,Resort Hotel,1,26,5,2,2,0,Online TA,No Deposit
+235,Resort Hotel,1,24,3,2,2,0,Online TA,No Deposit
+11,Resort Hotel,1,23,4,2,0,0,Online TA,No Deposit
+252,Resort Hotel,0,23,2,2,0,0,Online TA,No Deposit
+250,Resort Hotel,0,22,2,2,0,0,Online TA,No Deposit
+92,Resort Hotel,0,21,1,2,0,0,Online TA,No Deposit
+196,Resort Hotel,0,21,3,2,1,0,Direct,No Deposit
+259,Resort Hotel,0,21,2,2,0,0,Direct,No Deposit
+265,Resort Hotel,0,21,3,2,0,2,Direct,No Deposit
+63,Resort Hotel,0,17,3,2,0,0,Direct,No Deposit
+231,Resort Hotel,0,17,1,2,2,0,Online TA,No Deposit
+238,Resort Hotel,1,17,3,2,0,0,Online TA,No Deposit
+43,Resort Hotel,0,16,3,2,0,0,Direct,No Deposit
+240,Resort Hotel,0,16,3,1,0,0,Direct,No Deposit
+298,Resort Hotel,0,16,1,2,0,0,Online TA,No Deposit
+37,Resort Hotel,0,15,3,2,0,0,Online TA,No Deposit
+74,Resort Hotel,0,15,2,2,0,0,Online TA,No Deposit
+5,Resort Hotel,0,14,2,2,0,0,Online TA,No Deposit
+6,Resort Hotel,0,14,2,2,0,0,Online TA,No Deposit
+60,Resort Hotel,0,14,2,2,0,0,Online TA,No Deposit
+241,Resort Hotel,0,14,3,2,0,0,Online TA,No Deposit
+4,Resort Hotel,0,13,1,1,0,0,Corporate,No Deposit
+255,Resort Hotel,0,13,2,2,1,0,Online TA,No Deposit
+89,Resort Hotel,0,12,1,2,0,0,Online TA,No Deposit
+233,Resort Hotel,0,12,2,2,2,0,Direct,No Deposit
+312,Resort Hotel,0,12,5,2,0,0,Online TA,No Deposit
+325,Resort Hotel,0,12,5,2,0,0,Online TA,No Deposit
+325,Resort Hotel,0,12,5,2,0,0,Online TA,No Deposit
+253,Resort Hotel,0,11,2,2,0,0,Online TA,No Deposit
+274,Resort Hotel,0,11,6,3,1,0,Direct,No Deposit
+61,Resort Hotel,0,10,2,2,0,0,Online TA,No Deposit
+66,Resort Hotel,0,10,2,2,2,0,Online TA,No Deposit
+249,Resort Hotel,0,10,1,2,0,0,Direct,No Deposit
+8,Resort Hotel,0,9,2,2,0,0,Direct,No Deposit
+90,Resort Hotel,0,9,1,2,0,0,Online TA,No Deposit
+93,Resort Hotel,0,9,1,2,0,0,Online TA,No Deposit
+132,Resort Hotel,0,9,0,2,0,0,Online TA,No Deposit
+135,Resort Hotel,0,9,0,1,0,0,Online TA,No Deposit
+138,Resort Hotel,0,9,0,1,0,0,Online TA,No Deposit
+127,Resort Hotel,0,8,1,2,0,0,Online TA,No Deposit
+155,Resort Hotel,0,8,5,2,2,0,Online TA,No Deposit
+197,Resort Hotel,0,8,0,2,0,0,Direct,No Deposit
+198,Resort Hotel,0,8,0,2,0,0,Online TA,No Deposit
+202,Resort Hotel,0,8,4,3,2,0,Online TA,No Deposit
+300,Resort Hotel,0,8,1,2,0,0,Online TA,No Deposit
+310,Resort Hotel,0,8,4,2,1,0,Online TA,No Deposit
+3,Resort Hotel,0,7,1,1,0,0,Direct,No Deposit
+9,Resort Hotel,1,7,3,2,0,0,Online TA,No Deposit
+14,Resort Hotel,0,7,4,2,1,0,Online TA,No Deposit
+20,Resort Hotel,0,7,4,2,0,0,Direct,No Deposit
+171,Resort Hotel,0,7,1,2,0,0,Online TA,No Deposit
+212,Resort Hotel,0,7,4,2,0,0,Online TA,No Deposit
+62,Resort Hotel,0,5,2,2,0,0,Online TA,No Deposit
+133,Resort Hotel,1,5,0,2,0,0,Online TA,No Deposit
+139,Resort Hotel,1,5,0,2,0,0,Online TA,No Deposit
+215,Resort Hotel,0,5,4,2,0,0,Online TA,No Deposit
+101,Resort Hotel,0,4,1,2,0,0,Direct,No Deposit
+54,Resort Hotel,0,3,1,2,0,0,Online TA,No Deposit
+65,City Hotel ,1,3,3,2,0,0,Online TA,No Deposit
+67,City Hotel ,0,3,2,2,0,0,Online TA,No Deposit
+76,City Hotel ,0,3,2,2,0,0,Online TA,No Deposit
+254,City Hotel ,0,3,2,2,0,0,Online TA,No Deposit
+73,City Hotel ,0,2,2,2,0,0,Offline TA/TO,No Deposit
+78,City Hotel ,0,2,2,1,0,0,Online TA,No Deposit
+120,City Hotel ,0,2,1,2,2,0,Online TA,No Deposit
+136,City Hotel ,0,2,0,1,0,0,Online TA,No Deposit
+137,City Hotel ,0,2,0,2,0,0,Online TA,No Deposit
+140,City Hotel ,0,2,0,2,0,0,Direct,No Deposit
+170,City Hotel ,0,2,0,2,1,0,Direct,No Deposit
+309,City Hotel ,0,2,0,2,0,0,Online TA,No Deposit
+55,City Hotel ,0,1,1,2,0,0,Online TA,No Deposit
+56,City Hotel ,0,1,1,2,2,0,Direct,No Deposit
+91,City Hotel ,0,1,1,2,0,0,Online TA,No Deposit
+129,City Hotel ,0,1,1,2,0,0,Online TA,No Deposit
+213,City Hotel ,0,1,4,2,0,0,Online TA,No Deposit
+219,City Hotel ,1,1,1,2,0,0,Corporate,No Deposit
+220,City Hotel ,1,1,1,2,0,0,Corporate,No Deposit
+221,City Hotel ,0,1,2,2,0,0,Corporate,No Deposit
+7,City Hotel ,0,0,2,2,0,0,Direct,No Deposit
+19,City Hotel ,0,0,1,2,0,0,Corporate,No Deposit
+57,City Hotel ,0,0,1,2,0,0,Direct,No Deposit
+58,City Hotel ,0,0,1,2,0,0,Online TA,No Deposit
+59,City Hotel ,0,0,1,2,0,0,Direct,No Deposit
+134,City Hotel ,0,0,0,2,0,0,Online TA,No Deposit
+169,City Hotel ,0,0,0,1,0,0,Direct,No Deposit
+199,City Hotel ,0,0,1,1,0,0,Online TA,No Deposit
+200,City Hotel ,0,0,1,3,0,0,Direct,No Deposit
+201,City Hotel ,0,0,1,1,0,0,Online TA,No Deposit
+205,City Hotel ,0,0,4,2,0,0,Direct,No Deposit
+218,City Hotel ,0,0,1,1,0,0,Offline TA/TO,No Deposit
+292,City Hotel ,0,0,1,1,0,0,Direct,No Deposit
+293,City Hotel ,0,0,1,2,0,0,Online TA,No Deposit
+294,City Hotel ,0,0,1,2,0,0,Direct,No Deposit
+295,City Hotel ,0,0,1,2,0,0,Online TA,No Deposit
+18,City Hotel ,0,,1,2,0,0,Online TA,No Deposit
