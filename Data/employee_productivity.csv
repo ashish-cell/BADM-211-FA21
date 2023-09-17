@@ -1,0 +1,11 @@
+Employee_Name,Employee_Projects,Hours_Spent,Working_Hours,Department
+Alice,"['ProjectA', 'ProjectB', 'ProjectC']","[8, 10, 6]",160,HR
+Bob,"['ProjectA', 'ProjectD']","[7, 9]",180,IT
+Charlie,"['ProjectB', 'ProjectC', 'ProjectE']","[9, 8, 7]",175,IT
+David,['ProjectD'],[8],190,Finance
+Eva,"['ProjectA', 'ProjectB', 'ProjectF']","[6, 7, 5]",165,HR
+Frank,"['ProjectC', 'ProjectD']","[5, 6]",150,IT
+Grace,"['ProjectE', 'ProjectF']","[7, 6]",200,Finance
+Helen,['ProjectA'],[8],155,HR
+Ivy,"['ProjectB', 'ProjectD']","[9, 7]",170,Finance
+Jack,"['ProjectC', 'ProjectE', 'ProjectF']","[6, 7, 8]",185,IT
