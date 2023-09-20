@@ -1,0 +1,13 @@
+Customer_Name,Purchase,Amount_Paid,Payment_Method
+Isaac Williams,"['Pants', 'Mobile', 'Headphones', 'Tablet', 'Watch']","[70, 800, 150, 600, 200]","['Cash', 'DebitCard', 'Cash', 'CreditCard', 'DebitCard']"
+David Miller,['Glasses'],[100],['Cash']
+David Miller,"['Laptop', 'Pants', 'Mobile']","[1000, 70, 800]","['Cash', 'CreditCard', 'DebitCard']"
+Bob Anderson,"['Shoes', 'Camera', 'Mobile', 'Tablet']","[80, 500, 800, 600]","['DebitCard', 'Cash', 'DebitCard', 'DebitCard']"
+Alice Wilson,"['Tablet', 'Headphones']","[600, 150]","['DebitCard', 'DebitCard']"
+David Brown,"['Shoes', 'Glasses']","[80, 100]","['DebitCard', 'Cash']"
+Frank Wilson,['Mobile'],[800],['Cash']
+Isaac Miller,['Shirt'],[50],['DebitCard']
+Charlie Smith,"['Laptop', 'Shirt', 'Glasses', 'Watch']","[1000, 50, 100, 200]","['CreditCard', 'Cash', 'CreditCard', 'DebitCard']"
+Hannah Moore,"['Pants', 'Tablet', 'Glasses']","[70, 600, 100]","['CreditCard', 'Cash', 'CreditCard']"
+Eve Brown,"['Camera', 'Shirt', 'Shoes']","[500, 50, 80]","['Cash', 'DebitCard', 'DebitCard']"
+Alice Johnson,"['Shirt', 'Watch', 'Pants']","[50, 200, 70]","['DebitCard', 'DebitCard', 'CreditCard']"
